@@ -3,7 +3,7 @@
 #include <stdbool.h>
 
 // 1. تعريف حجم المخزن
-#define SIZE 5
+#define SIZE 15
 
 // 2. تعريف هيكل المخزن الدائري
 typedef struct {
